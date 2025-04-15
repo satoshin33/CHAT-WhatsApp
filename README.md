@@ -31,6 +31,25 @@ Lilith es el motor de inteligencia artificial que impulsa la plataforma. Algunas
 - Evolución progresiva con visión a largo plazo (fase final estimada: **2030**)
 
 ---
+## ✅ Funcionalidades desde el inicio:
+
+📂 Gestión de departamentos
+
+👥 Gestión de usuarios y roles
+
+✉️ Historial de mensajes
+
+🤖 Asignación automática de chats por departamento
+
+🚦 Enrutamiento de chats
+
+📊 Estadísticas por agente y departamento
+
+🔔 Notificaciones en tiempo real con Laravel Echo
+
+🔒 Sistema de permisos (usando Spatie)
+
+
 
 ## 🚀 Instalación
 
