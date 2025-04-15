@@ -36,5 +36,5 @@ Lilith es el motor de inteligencia artificial que impulsa la plataforma. Algunas
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/lilith-chat-manager.git
+git clone https://github.com/satoshin33/lilith-chat-manager.git
 cd lilith-chat-manager
